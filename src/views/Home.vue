@@ -10,7 +10,7 @@ const fiberImage = `${import.meta.env.BASE_URL}fiber coir.png`
     <div class="container hero-content">
       <div class="hero-text">
         <p class="tag">Natural • Useful • Sustainable</p>
-        <h1>Simple coconut coir solutions for greener everyday living</h1>
+        <h1>Simple Coconut Coir Solutions for Greener Everyday living</h1>
         <p class="subtext">
           We turn coconut husks into practical products for gardening, home use, and eco-friendly materials that support a cleaner future.
         </p>
